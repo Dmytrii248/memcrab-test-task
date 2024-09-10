@@ -1,0 +1,28 @@
+.matrix-table__remove-row-button {
+  margin-left: 8px;
+  padding: 4px 8px;
+  font-size: 14px;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.custom-header {
+  border: 1px solid #ccc;
+  padding: 12px;
+  background-color: #04aa6d;
+  color: white;
+}
+
+tr {
+  &:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  &:hover {
+    background-color: #ddd;
+  }
+  & td:last-child {
+    background-color: white;
+  }
+}

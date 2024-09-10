@@ -1,0 +1,8 @@
+.matrix-cell {
+  border: 1px solid #ccc;
+  padding: 12px;
+}
+
+.pointer {
+  cursor: pointer;
+}

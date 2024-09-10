@@ -1,0 +1,17 @@
+.matrix-table {
+  border-collapse: collapse;
+}
+
+.matrix-table__header {
+  border: 1px solid #ccc;
+  padding: 12px;
+  background-color: #04aa6d;
+  color: white;
+}
+
+.action-button {
+  padding: 8px 12px;
+  font-size: 14px;
+  font-weight: 600;
+  margin: 8px 4px;
+}
